@@ -11,3 +11,7 @@
 6.  Write a code to transfer and receive data.
 
 7. Write a code to control the LED PA5 using UART when we press cha ‘N’ or ‘n’ then led will turn on and if we press char ‘F’ or ‘f’ then led will turn off.
+
+8. Write a code to transfer and receive data between two STM32 boards
+
+9. Write a code to display data written in UART on LCD
